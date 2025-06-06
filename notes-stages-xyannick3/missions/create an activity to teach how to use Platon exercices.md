@@ -6,6 +6,6 @@
 	- 
 
 - make exercises about components, by using code input and execution of code. 
-	- 
+	- 2
 
 - create the next

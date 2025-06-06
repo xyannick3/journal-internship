@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "missions/create an activity to teach how to use Platon exercices.md",
+                "file": "issues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create an activity to teach how to use Platon exercices"
+              "title": "issues"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "33e3a894623041ff",
   "lastOpenFiles": [
-    "missions/create templates.md",
     "missions/create an activity to teach how to use Platon exercices.md",
+    "missions/create templates.md",
     "missions/browse templates.md",
     "Notes internship Yannick François.md",
     "todo.md",
