@@ -7,5 +7,5 @@ Why English : I'm using Obsidian to organize my notes, unfortunately whoever mad
 - **[[Journal]]** : day per day report of what has been done.
 - **[[current problems]]** : constantly updated list of things that I'm scheduling to do.
 - [[various notes]] : I'll see how I describe this later
-
 - [[missions]]
+- [[todo]]
