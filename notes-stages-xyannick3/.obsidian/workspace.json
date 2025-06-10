@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "issues.md",
+                "file": "Journal/10-06-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "issues"
+              "title": "10-06-25"
             }
           }
         ]
@@ -171,24 +171,25 @@
   },
   "active": "33e3a894623041ff",
   "lastOpenFiles": [
-    "missions/create an activity to teach how to use Platon exercices.md",
-    "missions/create templates.md",
-    "missions/browse templates.md",
-    "Notes internship Yannick François.md",
     "todo.md",
-    "training to make an exercise template.md",
+    "Journal/10-06-25.md",
+    "Journal/Journal.md",
+    "Journal/05-06-25.md",
     "Journal/02-06-25.md",
     "Journal/03-06-25.md",
-    "Journal/Journal.md",
+    "Journal/04-06-25.md",
     "Journal/06-06-25.md",
-    "missions/missions.md",
-    "Journal/05-06-25.md",
+    "Notes internship Yannick François.md",
+    "missions/trying to have Platon run on IDX.md",
+    "missions/browse templates.md",
+    "missions/create templates.md",
+    "missions/create an activity to teach how to use Platon exercices.md",
     "issues.md",
+    "training to make an exercise template.md",
+    "missions/missions.md",
     "Untitled 1.md",
     "Untitled.md",
     "create default template for ple development.md",
-    "Journal/04-06-25.md",
-    "missions/trying to have Platon run on IDX.md",
     "missions/browse templates 1.md",
     "[trying to have Platon run on IDX.md",
     "().md",
