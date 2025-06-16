@@ -30,29 +30,7 @@
 	- problème à régler : lorsque on parcours le node question on parcours la consigne d'une manière plutôt random, je pense que c'est risqué et il faudrait que je le refasse. 
 	- barème 
 
-- data structure of json : 
-```
-data[question] (where questions is a list of question)
-data[elements] (list of the elements I think it's going to be string)
-+++++
-question[theme] (string of charact```
-data[question] (where questions is a list of question)
-data[elements] (list of the elements I think it's going to be string)
-+++++
-question[theme] (string of character, the theme of the question "convertion")
-question[assignement] (the actual question the student has to answer)
-question[answers] (a list of answer)
-question[questionmult] (if it's a question with multiple good answer, Boolean)
-+++++
-
-answer[correct] (boolean True for bonne False for mauvaise)
-answer[alafin] (boolean if it is in the end of the question)
-```er, the theme of the question "convertion")
-question[assignement] (the actual question the student has to answer)
-question[answers] (a list of answer)
-question[questionmult] (if it's a question with multiple good answer, Boolean)
-+++++
-
-answer[correct] (boolean True for bonne False for mauvaise)
-answer[alafin] (boolean if it is in the end of the question)
-```
+	- il faut être capable de convertir des kitz vers pdf puis vers autre fichiers puis les introduires dans un dossier en gardant en mémoire le 
+	- il faut enlever les mbox
+	- Il faudrait récupérer les barème pour les exercices qui les utilises
+	- idéallement j'aimerais que mon fichier soit capable de parse à la fois les modèles des professeurs et les exercices de math de la librairie

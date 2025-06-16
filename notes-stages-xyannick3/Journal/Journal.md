@@ -9,4 +9,6 @@ This is the index of the journal
 - [[10-06-25 | day 6]]
 - [[11-06-25 | day 7]]
 - [[12-06-25 | day 8]]
+- [[13-06-25 | day 9]]
+- [[14-06-25 | day 10]]
 - 
