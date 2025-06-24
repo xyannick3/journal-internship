@@ -34,3 +34,8 @@
 	- il faut enlever les mbox
 	- Il faudrait récupérer les barème pour les exercices qui les utilises
 	- idéallement j'aimerais que mon fichier soit capable de parse à la fois les modèles des professeurs et les exercices de math de la librairie
+
+- regarder ce qu'est [gradio](https://www.gradio.app/)
+- todo sent exercise Scala à olivier curé
+
+![[Pasted image 20250623174107.png]]
